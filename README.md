@@ -1,7 +1,7 @@
-# aminatanimashaun31
+
 Animashaun Aminat Abiodun
 aminatanimashaun31@gmail.com
-aminatanimashaun31
+aminatanimashaun31 
 Frontend and Design
 CSS, HTML, Javascript, UI/UX
 
